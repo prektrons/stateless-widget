@@ -1,6 +1,8 @@
 # statelesswidget
 
-Stateless Widget Example
+Stateless Widget Example. 
+The main.dart file contains the code.
+
 
 ## Getting Started
 
